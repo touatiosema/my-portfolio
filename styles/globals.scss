@@ -62,6 +62,9 @@ a {
   padding-left: 30px;
 }
 
+.fading-in-fast {
+  animation: fadein 0.3s ease-out;
+}
 .fading-in {
   animation: fadein 2s;
 }
