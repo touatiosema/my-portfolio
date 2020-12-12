@@ -25,6 +25,7 @@ export default ({
           <a
             className="text-yellow-500 hover:text-yellow-600 pl-3"
             href={projectLink}
+            target="_blank"
           >
             {title}
           </a>
