@@ -1,5 +1,5 @@
 import Link from "next/link";
-import styles from "../../styles/NavBar.module.scss";
+import styles from "../styles/NavBar.module.scss";
 import { useRouter } from "next/router";
 
 export default () => {
